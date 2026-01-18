@@ -1,2 +1,15 @@
-# ML-Concepts-
-This repository contains hands-on demonstrations and practical implementations of machine learning concepts encountered while studying "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow". The focus is on understanding core ML ideas through implementing, experiments, visualizations, and clean code.
+# Hands on Machine Learning
+
+## The repo structure   
+
+├── chapter-01-ml-fundamentals/
+│   ├── notes.md
+│   ├── linear_regression.ipynb
+│   └── learning_curves.ipynb
+│
+├── chapter-02-end-to-end-ml/
+│   ├── data_exploration.ipynb
+│   └── pipelines.ipynb
+│
+├── datasets/
+└── README.md
