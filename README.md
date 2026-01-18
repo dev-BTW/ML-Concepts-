@@ -2,6 +2,7 @@
 
 ## The repo structure   
 
+```
 .
 ├── README.md
 │
@@ -24,3 +25,5 @@
 │
 └── utils/
     └── plotting_helpers.py
+
+```
